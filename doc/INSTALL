@@ -1,0 +1,9 @@
+1. make
+
+if everything goes well, there will be a file named libisrc.a generated in directory lib 
+
+2. make install
+
+this will install the head files into /usr/local/include 
+
+and lib file will be placed at /usr/local/lib

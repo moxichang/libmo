@@ -1,0 +1,5 @@
+features to be added:
+	automachine
+	charset encoding transform
+	encryption(RSA, MD5, AES and so on)
+	simple xml parser
